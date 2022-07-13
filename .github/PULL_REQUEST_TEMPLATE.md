@@ -3,7 +3,7 @@
 Please read the comments below to help us consider your Pull Request.
 
 We are all volunteers and completing the process outlined will help us review your commits quicker.
--->
+--><br>
 
 ### **What does this PR aim to accomplish?:**
 
@@ -19,15 +19,8 @@ We are all volunteers and completing the process outlined will help us review yo
 
 *Replace this with a detailed list of any necessary changes*
 
-
 ---
-**I confirm:**
-<!-- Check the boxes to confirm -->
-- [ ] I have based my PR read against the repositories developmental branch (development, devel, dev).
-- [ ] I [Signed-Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits. Pi-hole enforces the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions.
-
----
-**By submitting this pull request, I also confirm the following:** 
+**By submitting this pull request, I confirm the following:** 
 
 1. I have read and understood the [contributors guide](https://docs.pi-hole.net/guides/github/contributing/), as well as this entire template. I understand which branch to base my commits and Pull Requests against. 
 2. I have commented my proposed changes within the code and I have tested my changes.
@@ -37,3 +30,8 @@ We are all volunteers and completing the process outlined will help us review yo
 
 <!-- Check this box to confirm -->
 - [ ] I have read the above and my PR is ready for review.
+
+**I also confirm:**
+<!-- Check the boxes to confirm -->
+- [ ] I have based my PR read against the repositories developmental branch (development, devel, dev).
+- [ ] I [Signed-Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits. Pi-hole enforces the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions.
